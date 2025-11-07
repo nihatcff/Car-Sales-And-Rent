@@ -2,6 +2,14 @@
 {
     public class Car
     {
+<<<<<<< HEAD
+        private static int counter = 1;
+        public int Id { get; private set; }
+=======
+        static int counter = 1;
+
+        public int Id { get;  set; }
+>>>>>>> 093e4427ae162bcef8a156ca73121c41dd230ab3
         public string Brand { get; set; }
         public string Model { get; set; }
         public int Year { get; set; }
@@ -11,6 +19,7 @@
 
         public Car(string brand, string model, int year, double cost, double price)
         {
+            Id = counter++;
             Brand = brand;
             Model = model;
             Year = year;
@@ -22,7 +31,7 @@
         public override string ToString()
         {
             string rentedText = IsRented ? " (Rented)" : "";
-            return $"{Brand} {Model} ({Year}) - {SalePrice} AZN{rentedText}";
+            return $"{Id}. {Brand} {Model} ({Year}) - {SalePrice} AZN{rentedText}";
         }
     }
 }
