@@ -1,0 +1,14 @@
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\bin\Debug\net8.0\CarSalesAndRent.exe
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\bin\Debug\net8.0\CarSalesAndRent.deps.json
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\bin\Debug\net8.0\CarSalesAndRent.runtimeconfig.json
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\bin\Debug\net8.0\CarSalesAndRent.dll
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\bin\Debug\net8.0\CarSalesAndRent.pdb
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\obj\Debug\net8.0\CarSalesAndRent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\obj\Debug\net8.0\CarSalesAndRent.AssemblyInfoInputs.cache
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\obj\Debug\net8.0\CarSalesAndRent.AssemblyInfo.cs
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\obj\Debug\net8.0\CarSalesAndRent.csproj.CoreCompileInputs.cache
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\obj\Debug\net8.0\CarSalesAndRent.dll
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\obj\Debug\net8.0\refint\CarSalesAndRent.dll
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\obj\Debug\net8.0\CarSalesAndRent.pdb
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\obj\Debug\net8.0\CarSalesAndRent.genruntimeconfig.cache
+C:\Users\nihat\OneDrive\Desktop\CFF\CarSalesAndRent\CarSalesAndRent\obj\Debug\net8.0\ref\CarSalesAndRent.dll
