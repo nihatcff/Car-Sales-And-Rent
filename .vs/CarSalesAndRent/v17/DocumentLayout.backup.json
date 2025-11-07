@@ -1,5 +1,32 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|c:\\users\\admin\\source\\repos\\car-sales-and-rent\\carsalesandrent\\carsalesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|solutionrelative:carsalesandrent\\carsalesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|c:\\users\\admin\\source\\repos\\car-sales-and-rent\\carsalesandrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|solutionrelative:carsalesandrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|c:\\users\\admin\\source\\repos\\car-sales-and-rent\\carsalesandrent\\rentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|solutionrelative:carsalesandrent\\rentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|c:\\users\\admin\\source\\repos\\car-sales-and-rent\\carsalesandrent\\carsalesandrent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|solutionrelative:carsalesandrent\\carsalesandrent.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|c:\\users\\admin\\source\\repos\\car-sales-and-rent\\carsalesandrent\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|solutionrelative:carsalesandrent\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|c:\\users\\admin\\source\\repos\\car-sales-and-rent\\carsalesandrent\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|solutionrelative:carsalesandrent\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
   "WorkspaceRootPath": "C:\\Users\\nihat\\OneDrive\\Desktop\\CarSalesAndRent\\",
   "Documents": [
     {
@@ -21,6 +48,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nihat\\OneDrive\\Desktop\\CarSalesAndRent\\CarSalesAndRent\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CarSalesAndRent\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> 093e4427ae162bcef8a156ca73121c41dd230ab3
     }
   ],
   "DocumentGroupContainers": [
@@ -34,6 +62,27 @@
           "Children": [
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 3,
+              "Title": "CarSalesAndRent.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\CarSalesAndRent.csproj",
+              "RelativeDocumentMoniker": "CarSalesAndRent\\CarSalesAndRent.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\CarSalesAndRent.csproj",
+              "RelativeToolTip": "CarSalesAndRent\\CarSalesAndRent.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-07T16:49:24.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RentSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\RentSystem.cs",
+              "RelativeDocumentMoniker": "CarSalesAndRent\\RentSystem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\RentSystem.cs",
+              "RelativeToolTip": "CarSalesAndRent\\RentSystem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAUAAAABAAAAAAAAAA==",
+=======
               "DocumentIndex": 2,
               "Title": "RentSystem.cs",
               "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CarSalesAndRent\\CarSalesAndRent\\RentSystem.cs",
@@ -41,24 +90,43 @@
               "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CarSalesAndRent\\CarSalesAndRent\\RentSystem.cs",
               "RelativeToolTip": "CarSalesAndRent\\RentSystem.cs",
               "ViewState": "AgIAADsAAAAAAAAAAAAYwFYAAAAAAAAAAAAAAA==",
+>>>>>>> 093e4427ae162bcef8a156ca73121c41dd230ab3
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T14:17:20.931Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 0,
+              "Title": "CarSaleSystem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\CarSaleSystem.cs",
+              "RelativeDocumentMoniker": "CarSalesAndRent\\CarSaleSystem.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\CarSaleSystem.cs",
+=======
               "DocumentIndex": 3,
               "Title": "CarSaleSystem.cs",
               "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CarSalesAndRent\\CarSalesAndRent\\CarSaleSystem.cs",
               "RelativeDocumentMoniker": "CarSalesAndRent\\CarSaleSystem.cs",
               "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CarSalesAndRent\\CarSalesAndRent\\CarSaleSystem.cs",
+>>>>>>> 093e4427ae162bcef8a156ca73121c41dd230ab3
               "RelativeToolTip": "CarSalesAndRent\\CarSaleSystem.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T14:16:56.438Z"
+              "WhenOpened": "2025-11-07T14:16:56.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 5,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\Bank.cs",
+              "RelativeDocumentMoniker": "CarSalesAndRent\\Bank.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\Bank.cs",
+              "RelativeToolTip": "CarSalesAndRent\\Bank.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB0AAAArAAAAAAAAAA==",
+=======
               "DocumentIndex": 0,
               "Title": "Bank.cs",
               "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CarSalesAndRent\\CarSalesAndRent\\Bank.cs",
@@ -66,6 +134,7 @@
               "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CarSalesAndRent\\CarSalesAndRent\\Bank.cs",
               "RelativeToolTip": "CarSalesAndRent\\Bank.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+>>>>>>> 093e4427ae162bcef8a156ca73121c41dd230ab3
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T14:16:36.002Z",
               "EditorCaption": ""
@@ -74,11 +143,17 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Car.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\Car.cs",
+              "RelativeDocumentMoniker": "CarSalesAndRent\\Car.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\Car.cs",
+=======
               "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CarSalesAndRent\\CarSalesAndRent\\Car.cs",
               "RelativeDocumentMoniker": "CarSalesAndRent\\Car.cs",
               "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CarSalesAndRent\\CarSalesAndRent\\Car.cs",
+>>>>>>> 093e4427ae162bcef8a156ca73121c41dd230ab3
               "RelativeToolTip": "CarSalesAndRent\\Car.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T14:16:14.193Z"
             },
@@ -86,14 +161,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+<<<<<<< HEAD
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\Program.cs",
+              "RelativeDocumentMoniker": "CarSalesAndRent\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\Program.cs",
+              "RelativeToolTip": "CarSalesAndRent\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+=======
               "DocumentMoniker": "C:\\Users\\nihat\\OneDrive\\Desktop\\CarSalesAndRent\\CarSalesAndRent\\Program.cs",
               "RelativeDocumentMoniker": "CarSalesAndRent\\Program.cs",
               "ToolTip": "C:\\Users\\nihat\\OneDrive\\Desktop\\CarSalesAndRent\\CarSalesAndRent\\Program.cs",
               "RelativeToolTip": "CarSalesAndRent\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+>>>>>>> 093e4427ae162bcef8a156ca73121c41dd230ab3
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T14:03:30.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T14:03:30.169Z"
             }
           ]
         }
