@@ -114,6 +114,11 @@ namespace CarSalesAndRent.Systems
                 return;
 
             }
+            if (masin.IsRented)
+            {
+                Console.WriteLine("Bu masin artiq kiraye verilib!");
+                return;
+            }
             else
             {
 
