@@ -24,10 +24,10 @@ namespace CarSalesAndRent.Systems
             return false;
         }
 
-        public void Deposit(double amount, string reason)
+        public void Deposit(double amount)
         {
             Balance += amount;
-            history.Add($"+{amount} AZN ({reason})");
+            history.Add($"+{amount} AZN ");
         }
 
         public void Menu()
