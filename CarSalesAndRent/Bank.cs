@@ -18,33 +18,33 @@ namespace CarSalesAndRent.Systems
             if (Balance >= amount)
             {
                 Balance -= amount;
-                history.Add($"-{amount} AZN (expense)");
+                history.Add($"-{amount} AZN");
                 return true;
             }
             return false;
         }
 
-        public void Deposit(double amount, string reason)
+        public void Deposit(double amount)
         {
             Balance += amount;
-            history.Add($"+{amount} AZN ({reason})");
+            history.Add($"+{amount} AZN ");
         }
 
         public void Menu()
         {
             while (true)
             {
-                Console.WriteLine("\n===== BANK MENU =====");
-                Console.WriteLine("1. Show Balance");
-                Console.WriteLine("2. Transaction History");
-                Console.WriteLine("0. Back");
-                Console.Write("Choice: ");
+                Console.WriteLine("\n===== BANK MENYUSU =====");
+                Console.WriteLine("1. Balansa bax");
+                Console.WriteLine("2. Əməliyyatlar");
+                Console.WriteLine("0. Geri");
+                Console.Write("Seçim: ");
                 string choice = Console.ReadLine();
 
                 switch (choice)
                 {
                     case "1":
-                        Console.WriteLine($"Current Balance: {Balance} AZN");
+                        Console.WriteLine($"Cari balans: {Balance} AZN");
                         break;
                     case "2":
                         ShowHistory();
@@ -52,7 +52,7 @@ namespace CarSalesAndRent.Systems
                     case "0":
                         return;
                     default:
-                        Console.WriteLine("Invalid choice!");
+                        Console.WriteLine("Yanlış seçim!");
                         break;
                 }
             }
@@ -60,10 +60,10 @@ namespace CarSalesAndRent.Systems
 
         private void ShowHistory()
         {
-            Console.WriteLine("\n--- Transaction History ---");
+            Console.WriteLine("\n--- Əməliyyat tarixçəsi ---");
             if (history.Count == 0)
             {
-                Console.WriteLine("No records found.");
+                Console.WriteLine("Qeyd yoxdur.");
                 return;
             }
 
@@ -71,6 +71,16 @@ namespace CarSalesAndRent.Systems
             {
                 Console.WriteLine(item);
             }
+        }
+
+        public double GetBalance()
+        {
+            return Balance;
+        }
+
+        public List<string> GetHistory()
+        {
+            return history;
         }
     }
 }
