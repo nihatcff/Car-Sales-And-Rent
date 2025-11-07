@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|c:\\users\\admin\\source\\repos\\car-sales-and-rent\\carsalesandrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|solutionrelative:carsalesandrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|c:\\users\\admin\\source\\repos\\car-sales-and-rent\\carsalesandrent\\carsalesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|solutionrelative:carsalesandrent\\carsalesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|c:\\users\\admin\\source\\repos\\car-sales-and-rent\\carsalesandrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|solutionrelative:carsalesandrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E45474E8-045E-46EB-9E93-8B4F54131792}|CarSalesAndRent\\CarSalesAndRent.csproj|c:\\users\\admin\\source\\repos\\car-sales-and-rent\\carsalesandrent\\rentsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,20 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "CarSalesAndRent",
-              "DocumentMoniker": "C:\\Users\\Admin\\Source\\Repos\\Car-Sales-And-Rent\\CarSalesAndRent\\CarSalesAndRent.csproj",
+              "Title": "CarSalesAndRent.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\CarSalesAndRent.csproj",
               "RelativeDocumentMoniker": "CarSalesAndRent\\CarSalesAndRent.csproj",
-              "ToolTip": "C:\\Users\\Admin\\Source\\Repos\\Car-Sales-And-Rent\\CarSalesAndRent\\CarSalesAndRent.csproj",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\CarSalesAndRent.csproj",
               "RelativeToolTip": "CarSalesAndRent\\CarSalesAndRent.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-07T16:49:24.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T16:49:24.287Z"
             },
             {
               "$type": "Document",
@@ -59,18 +58,17 @@
               "RelativeToolTip": "CarSalesAndRent\\RentSystem.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T14:17:20.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T14:17:20.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "CarSaleSystem.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\CarSaleSystem.cs",
               "RelativeDocumentMoniker": "CarSalesAndRent\\CarSaleSystem.cs",
-              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\CarSaleSystem.cs*",
-              "RelativeToolTip": "CarSalesAndRent\\CarSaleSystem.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAYAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\CarSaleSystem.cs",
+              "RelativeToolTip": "CarSalesAndRent\\CarSaleSystem.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBIAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-07T14:16:56.438Z",
               "EditorCaption": ""
@@ -83,10 +81,9 @@
               "RelativeDocumentMoniker": "CarSalesAndRent\\Bank.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\Bank.cs",
               "RelativeToolTip": "CarSalesAndRent\\Bank.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwB0AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T14:16:36.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T14:16:36.002Z"
             },
             {
               "$type": "Document",
@@ -98,25 +95,19 @@
               "RelativeToolTip": "CarSalesAndRent\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T14:16:14.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T14:16:14.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\Program.cs",
               "RelativeDocumentMoniker": "CarSalesAndRent\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\Car-Sales-And-Rent\\CarSalesAndRent\\Program.cs",
               "RelativeToolTip": "CarSalesAndRent\\Program.cs",
-<<<<<<< Updated upstream
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAAnAAAAAAAAAA==",
-=======
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAsAAAA/AAAAAAAAAA==",
->>>>>>> Stashed changes
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-07T14:03:30.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-07T14:03:30.169Z"
             }
           ]
         }
