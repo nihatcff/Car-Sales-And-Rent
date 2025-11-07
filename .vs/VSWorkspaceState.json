@@ -2,6 +2,10 @@
   "ExpandedNodes": [
     ""
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\CarSalesAndRent.sln",
+=======
+  "SelectedNode": "\\CarSalesAndRent\\Bank.cs",
+>>>>>>> 093e4427ae162bcef8a156ca73121c41dd230ab3
   "PreviewInSolutionExplorer": false
 }
